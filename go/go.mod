@@ -2,7 +2,7 @@ module github.com/azureossd/container-apps-health-probe-examples/go
 
 go 1.21.0
 
-require github.com/gofiber/fiber/v2 v2.52.13
+require github.com/gofiber/fiber/v2 v2.52.14
 
 require (
 	github.com/andybalholm/brotli v1.1.0 // indirect
